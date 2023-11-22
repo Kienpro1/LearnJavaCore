@@ -1,8 +1,8 @@
-package com.amigoscode;
+    package com.amigoscode;
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println(10+10);
+    public class Main {
+        public static void main(String[] args) {
+         int number =0;
+            System.out.println(++number);
+        }
     }
-}
